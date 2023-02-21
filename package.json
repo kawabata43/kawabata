@@ -1,0 +1,10 @@
+{
+    "name": "kawabatajs",
+    "version": "1.0.0",
+    "private": false,
+    "main": "./offCanvas.min.js",
+    "license": "MIT",
+    "author": "yoshihisa ishikawa",
+    "files": [ "README.md","*.{js,json}" ],
+    "keywords": ["kawabatajs"]
+}
